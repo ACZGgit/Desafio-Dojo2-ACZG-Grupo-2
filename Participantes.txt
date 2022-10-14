@@ -1,5 +1,5 @@
 nomes:
-1: Lauis
+1: Lauis de Oliveira e Silva Junior
 2: Felipe
 3: Welton
 4: Jocelin
